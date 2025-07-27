@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NIFTY Futures AI Bot (Demo)
 
 This is a simple Streamlit dashboard that simulates an AI-based trading signal for NIFTY futures.
@@ -12,3 +13,6 @@ This is a simple Streamlit dashboard that simulates an AI-based trading signal f
 
 - `main.py`: Streamlit app
 - `requirements.txt`: Dependencies
+=======
+# nifty-futures-ai-bot
+>>>>>>> 99ede838187fff6724c1a294f77f42da27daaa42
